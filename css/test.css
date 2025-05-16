@@ -915,6 +915,7 @@
             width: 85%; /* Adjust event width for mobile */
             left: 20%; /* Shift events to the right */
         }
+       
 
         .timeline-event.left,
         .timeline-event.right {
